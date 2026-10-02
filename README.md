@@ -21,7 +21,7 @@
 2. **Web 管理后台访问**：
    - 登录地址：`https://你的Worker域名/login`
    - 管理后台：`https://你的Worker域名/admin`
-   - 默认密码：为你配置的 `ADMIN` 或 `UUID`
+   - 默认密码：UUID默认密码：d342d11e-d424-4583-b36e-524ab1f0afa4
    - 快速订阅：`https://你的Worker域名/<KEY>`
 
 3. **客户端节点订阅**：
